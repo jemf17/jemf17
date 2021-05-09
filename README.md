@@ -1,4 +1,4 @@
-![https://github.com/jemf17](profile.jpg){: height="36px" width="36px"} Hi my name is Juan Filoni
+![https://github.com/jemf17](profile.jpg) Hi my name is Juan Filoni
 
 ![this is the introduction of my portfolio](cover_page.jpg)
 <!--
