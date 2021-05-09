@@ -1,4 +1,4 @@
-### Hi there 👋
+![https://github.com/jemf17](profile.jpg) Hi my name is Juan Filoni
 
 ![this is the introduction of my portfolio](cover_page.jpg)
 <!--
