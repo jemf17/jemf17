@@ -1,6 +1,10 @@
 # ![https://github.com/jemf17](profile.jpg) Hi my name is Juan Filoni
 
 ![this is the introduction of my portfolio](cover_page.jpg)
+
+### I am a python developer, react.js
+
+I am an independent developer who is just starting in the world of programming, my only work experience would be considered the [**app**](https://github.com/agusjaimez/VilladaAppG3-AppMobile)  and [**server**](https://github.com/agusjaimez/VilladaAppG3-Server)in which I participated in my school in 2020
 <!--
 **jemf17/jemf17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
