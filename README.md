@@ -1,6 +1,6 @@
 # ![https://github.com/jemf17](profile.jpg) Hi my name is Juan Filoni
 
-![this is the introduction of my portfolio](cover_page.jpg)
+![this is the introduction of my portfolio]([cover_page.jpg](https://avatars.githubusercontent.com/u/40602289?s=400&u=863d998e68660947f3bacdbd173a835cd9e92a5f&v=4))
 
 ### I am a python developer, react.js
 
