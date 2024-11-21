@@ -24,7 +24,7 @@ And more...
 
 ## Contact me:
 
-[![Gmail](https://img.shields.io/badge/jemf6filoni@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jemf18filoni@gmail.com)
+[![Gmail](https://img.shields.io/badge/jn6montenegro@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jn6montenegro@gmail.com)
 <!--
 
 **jemf17/jemf17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
