@@ -1,4 +1,4 @@
-Hi my name is Juan Filoni
+#Hi my name is Juan Filoni
 
 ![this is the introduction of my portfolio](https://plus.unsplash.com/premium_photo-1661882403999-46081e67c401?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cHJvZ3JhbWFjaW9ufGVufDB8fDB8fHww)
 
